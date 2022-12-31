@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Oxford-Flowers-101-Hog-Features-ORB-Detector-
+# Machine-Learning-Project-Oxford-Flowers-101-Hog-Features-ORB-Detector
 
 Oxford Flowers 101 dataset analyzed with machine learning techniques (KNN, Logistic, Decision Tree)
 
